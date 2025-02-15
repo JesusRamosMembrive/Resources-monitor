@@ -1,0 +1,113 @@
+2025-02-15 20:56 - INFO - Data cpu measure: {'usage_total': 0.0, 'usage_per_core': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+2025-02-15 20:56 - INFO - Data cpu measure: {'usage_total': 12.6, 'usage_per_core': [6.2, 6.2, 4.8, 9.4, 3.1, 15.6, 0.0, 3.2, 79.7, 20.6, 1.6, 1.6]}
+2025-02-15 20:56 - INFO - Data cpu measure: {'usage_total': 13.8, 'usage_per_core': [13.8, 10.8, 9.2, 15.6, 14.1, 15.6, 1.6, 1.5, 53.1, 24.6, 4.7, 1.6]}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 0.0, 'usage_per_core': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17394495488, 'percent': 49.2, 'used': 16863526912, 'free': 17394495488}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 9.3, 'usage_per_core': [1.6, 3.2, 20.3, 1.6, 3.1, 7.8, 0.0, 0.0, 71.9, 0.0, 0.0, 1.6]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17396396032, 'percent': 49.2, 'used': 16861626368, 'free': 17396396032}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 10.7, 'usage_per_core': [3.1, 0.0, 10.9, 7.9, 6.2, 3.1, 1.6, 0.0, 38.1, 52.3, 3.2, 1.6]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17401122816, 'percent': 49.2, 'used': 16856899584, 'free': 17401122816}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 15.6, 'usage_per_core': [12.1, 6.2, 7.9, 30.3, 23.1, 7.8, 1.6, 3.0, 33.8, 50.0, 4.6, 6.2]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17397026816, 'percent': 49.2, 'used': 16860995584, 'free': 17397026816}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.2, 'usage_per_core': [12.3, 1.6, 3.1, 7.8, 6.2, 9.4, 0.0, 0.0, 79.7, 9.5, 1.6, 3.1]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17397276672, 'percent': 49.2, 'used': 16860745728, 'free': 17397276672}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.8, 'usage_per_core': [9.2, 3.1, 6.2, 7.8, 6.2, 12.5, 0.0, 3.1, 62.5, 26.2, 3.1, 1.6]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17399095296, 'percent': 49.2, 'used': 16858927104, 'free': 17399095296}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.3, 'usage_per_core': [9.4, 0.0, 1.6, 12.5, 4.6, 45.3, 0.0, 0.0, 6.2, 47.7, 7.8, 0.0]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17397485568, 'percent': 49.2, 'used': 16860536832, 'free': 17397485568}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.1, 'usage_per_core': [3.1, 3.1, 1.6, 12.5, 1.6, 23.4, 0.0, 0.0, 32.8, 46.9, 3.1, 6.2]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17398276096, 'percent': 49.2, 'used': 16859746304, 'free': 17398276096}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 10.5, 'usage_per_core': [7.8, 1.6, 1.6, 12.7, 6.2, 28.1, 0.0, 0.0, 57.8, 7.9, 1.6, 0.0]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17405104128, 'percent': 49.2, 'used': 16852918272, 'free': 17405104128}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.6, 'usage_per_core': [9.1, 4.6, 7.8, 9.2, 4.7, 48.4, 3.1, 1.5, 15.6, 30.8, 3.1, 1.5]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17405931520, 'percent': 49.2, 'used': 16852090880, 'free': 17405931520}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 13.3, 'usage_per_core': [6.2, 1.6, 9.4, 7.8, 4.7, 54.7, 3.1, 3.2, 43.8, 18.8, 3.1, 3.2]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17405743104, 'percent': 49.2, 'used': 16852279296, 'free': 17405743104}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 10.5, 'usage_per_core': [1.6, 3.1, 1.6, 7.8, 4.7, 4.7, 0.0, 0.0, 71.9, 26.6, 3.1, 1.5]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17407741952, 'percent': 49.2, 'used': 16850280448, 'free': 17407741952}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 13.8, 'usage_per_core': [7.8, 7.9, 4.7, 12.5, 10.8, 29.2, 1.6, 0.0, 64.1, 20.6, 1.6, 4.7]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17405399040, 'percent': 49.2, 'used': 16852623360, 'free': 17405399040}
+2025-02-15 20:59 - INFO - Monitor detenido.
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 13.4, 'usage_per_core': [1.6, 3.1, 6.2, 12.5, 14.1, 14.1, 4.8, 4.8, 39.7, 53.8, 1.6, 4.8]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17411428352, 'percent': 49.2, 'used': 16846594048, 'free': 17411428352}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 10.0, 'usage_per_core': [1.6, 3.1, 1.6, 4.7, 1.6, 1.6, 1.5, 1.5, 89.2, 7.9, 3.1, 1.5]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17407913984, 'percent': 49.2, 'used': 16850108416, 'free': 17407913984}
+2025-02-15 20:59 - INFO - Data cpu measure: {'usage_total': 11.4, 'usage_per_core': [4.6, 0.0, 4.7, 7.8, 15.4, 21.9, 1.6, 0.0, 25.0, 50.8, 3.1, 1.5]}
+2025-02-15 20:59 - INFO - Data memory measure: {'total': 34258022400, 'available': 17407746048, 'percent': 49.2, 'used': 16850276352, 'free': 17407746048}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 0.0, 'usage_per_core': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17572098048, 'percent': 48.7, 'used': 16685924352, 'free': 17572098048}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 9.6, 'usage_per_core': [4.7, 0.0, 3.1, 0.0, 6.2, 1.6, 1.6, 0.0, 1.6, 92.2, 3.1, 1.6]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17589317632, 'percent': 48.7, 'used': 16668704768, 'free': 17589317632}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 12.7, 'usage_per_core': [1.5, 6.1, 7.6, 7.6, 7.6, 10.6, 1.5, 6.0, 22.7, 71.2, 7.6, 3.0]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17587806208, 'percent': 48.7, 'used': 16670216192, 'free': 17587806208}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17643302912, 'percent': 48.5, 'used': 16614719488, 'free': 17643302912}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 11.3, 'usage_per_core': [6.2, 4.7, 3.1, 6.2, 10.9, 12.5, 1.6, 0.0, 28.1, 54.7, 3.1, 4.7]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17649037312, 'percent': 48.5, 'used': 16608985088, 'free': 17649037312}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 14.5, 'usage_per_core': [9.2, 6.2, 12.1, 10.8, 33.3, 15.2, 1.5, 1.5, 18.2, 58.2, 1.5, 4.6]}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 38.8, 'usage_per_core': [37.9, 32.3, 32.3, 42.4, 59.4, 31.2, 30.8, 27.7, 75.0, 35.9, 33.3, 27.7]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17645203456, 'percent': 48.5, 'used': 16612818944, 'free': 17645203456}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17637535744, 'percent': 48.5, 'used': 16620486656, 'free': 17637535744}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 19.6, 'usage_per_core': [23.1, 7.6, 20.0, 18.5, 59.1, 33.8, 4.6, 9.1, 20.0, 13.8, 12.3, 13.6]}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 15.9, 'usage_per_core': [7.8, 7.7, 13.8, 9.2, 47.7, 18.5, 6.2, 1.5, 29.2, 30.8, 7.7, 10.8]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17645740032, 'percent': 48.5, 'used': 16612282368, 'free': 17645740032}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 10.9, 'usage_per_core': [3.0, 3.0, 3.1, 4.6, 38.5, 1.5, 3.1, 0.0, 52.3, 15.4, 6.2, 0.0]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17638739968, 'percent': 48.5, 'used': 16619282432, 'free': 17638739968}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 13.2, 'usage_per_core': [3.1, 3.1, 4.7, 7.8, 30.8, 51.6, 4.7, 6.2, 23.4, 17.2, 4.7, 1.6]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17758932992, 'percent': 48.2, 'used': 16499089408, 'free': 17758932992}
+2025-02-15 21:10 - INFO - Data cpu measure: {'usage_total': 11.5, 'usage_per_core': [4.6, 3.1, 6.1, 3.1, 7.7, 43.1, 4.6, 0.0, 6.2, 47.7, 6.2, 6.2]}
+2025-02-15 21:10 - INFO - Data memory measure: {'total': 34258022400, 'available': 17758916608, 'percent': 48.2, 'used': 16499105792, 'free': 17758916608}
+2025-02-15 21:11 - INFO - Data memory measure: {'total': 34258022400, 'available': 17760710656, 'percent': 48.2, 'used': 16497311744, 'free': 17760710656}
+2025-02-15 21:11 - INFO - Data cpu measure: {'usage_total': 10.5, 'usage_per_core': [4.5, 1.5, 3.1, 6.1, 6.2, 72.7, 1.5, 0.0, 16.7, 9.1, 1.5, 3.1]}
+2025-02-15 21:11 - INFO - Data memory measure: {'total': 34258022400, 'available': 17764315136, 'percent': 48.1, 'used': 16493707264, 'free': 17764315136}
+2025-02-15 21:11 - INFO - Data cpu measure: {'usage_total': 13.9, 'usage_per_core': [6.1, 3.1, 6.2, 9.4, 16.9, 14.1, 4.6, 3.1, 35.9, 59.4, 6.1, 3.1]}
+2025-02-15 21:11 - INFO - Interrupción por teclado recibida.
+2025-02-15 21:11 - INFO - Monitor detenido.
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 0.0, 'usage_per_core': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17329840128, 'percent': 49.4, 'used': 16928182272, 'free': 17329840128}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 13.7, 'usage_per_core': [3.1, 3.1, 21.5, 10.9, 7.8, 34.4, 4.7, 1.6, 45.3, 18.8, 6.2, 6.2]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17619353600, 'percent': 48.6, 'used': 16638668800, 'free': 17619353600}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17634549760, 'percent': 48.5, 'used': 16623472640, 'free': 17634549760}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 28.1, 'usage_per_core': [26.2, 15.4, 23.1, 33.8, 30.8, 38.5, 26.2, 12.3, 60.0, 30.8, 16.9, 23.1]}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 32.6, 'usage_per_core': [34.8, 25.0, 33.8, 35.9, 42.2, 31.8, 18.8, 17.2, 57.8, 37.5, 25.0, 31.2]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17646030848, 'percent': 48.5, 'used': 16611991552, 'free': 17646030848}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 26.7, 'usage_per_core': [22.7, 18.5, 20.0, 32.3, 35.4, 26.2, 13.8, 18.2, 66.2, 30.8, 18.5, 18.5]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17627959296, 'percent': 48.5, 'used': 16630063104, 'free': 17627959296}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17634123776, 'percent': 48.5, 'used': 16623898624, 'free': 17634123776}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 15.7, 'usage_per_core': [6.2, 6.2, 7.6, 7.7, 36.9, 12.3, 6.2, 1.5, 69.2, 21.5, 3.1, 10.8]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17636872192, 'percent': 48.5, 'used': 16621150208, 'free': 17636872192}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.4, 'usage_per_core': [3.1, 6.2, 0.0, 3.1, 7.8, 3.1, 1.6, 0.0, 32.8, 60.9, 3.1, 3.1]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17639325696, 'percent': 48.5, 'used': 16618696704, 'free': 17639325696}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.3, 'usage_per_core': [1.5, 3.1, 6.2, 3.1, 9.2, 3.1, 0.0, 0.0, 23.1, 73.8, 0.0, 0.0]}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 9.8, 'usage_per_core': [0.0, 0.0, 3.1, 3.1, 6.2, 0.0, 1.6, 1.6, 3.1, 92.2, 3.1, 3.1]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17642057728, 'percent': 48.5, 'used': 16615964672, 'free': 17642057728}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17642438656, 'percent': 48.5, 'used': 16615583744, 'free': 17642438656}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.9, 'usage_per_core': [6.2, 3.1, 4.6, 4.6, 3.1, 10.6, 4.6, 0.0, 6.2, 87.7, 0.0, 0.0]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17644736512, 'percent': 48.5, 'used': 16613285888, 'free': 17644736512}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 15.2, 'usage_per_core': [10.8, 12.5, 9.4, 12.5, 17.2, 9.4, 6.2, 3.1, 35.9, 46.9, 7.8, 10.9]}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 11.9, 'usage_per_core': [4.7, 1.6, 9.2, 4.6, 40.0, 13.8, 0.0, 1.5, 58.5, 3.1, 0.0, 6.2]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17644765184, 'percent': 48.5, 'used': 16613257216, 'free': 17644765184}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.5, 'usage_per_core': [1.5, 3.0, 16.9, 7.7, 41.5, 21.5, 1.5, 7.5, 15.4, 4.6, 3.0, 1.5]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17653706752, 'percent': 48.5, 'used': 16604315648, 'free': 17653706752}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17658245120, 'percent': 48.5, 'used': 16599777280, 'free': 17658245120}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.2, 'usage_per_core': [3.1, 1.6, 7.8, 7.8, 48.4, 6.2, 1.6, 1.6, 6.2, 31.2, 4.7, 1.6]}
+2025-02-15 21:12 - INFO - Data cpu measure: {'usage_total': 10.6, 'usage_per_core': [1.5, 1.5, 7.7, 6.2, 29.2, 16.9, 0.0, 0.0, 24.6, 33.8, 1.5, 4.6]}
+2025-02-15 21:12 - INFO - Data memory measure: {'total': 34258022400, 'available': 17654722560, 'percent': 48.5, 'used': 16603299840, 'free': 17654722560}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 0.0, 'usage_per_core': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17678106624, 'percent': 48.4, 'used': 16579915776, 'free': 17678106624}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 11.2, 'usage_per_core': [1.6, 1.6, 7.8, 6.2, 6.2, 7.7, 0.0, 1.6, 17.2, 84.4, 0.0, 0.0]}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17698316288, 'percent': 48.3, 'used': 16559706112, 'free': 17698316288}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 11.9, 'usage_per_core': [4.5, 4.6, 10.8, 6.2, 4.6, 18.5, 0.0, 1.5, 18.2, 72.3, 0.0, 1.5]}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17697705984, 'percent': 48.3, 'used': 16560316416, 'free': 17697705984}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17694453760, 'percent': 48.3, 'used': 16563568640, 'free': 17694453760}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 11.9, 'usage_per_core': [10.6, 0.0, 7.8, 4.6, 27.7, 46.9, 3.1, 1.6, 10.9, 20.0, 3.1, 6.2]}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 11.8, 'usage_per_core': [12.1, 0.0, 4.6, 9.4, 75.0, 9.2, 4.6, 1.5, 6.2, 7.8, 4.6, 7.7]}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17695358976, 'percent': 48.3, 'used': 16562663424, 'free': 17695358976}
+2025-02-15 21:14 - INFO - Data cpu measure: {'usage_total': 9.9, 'usage_per_core': [1.6, 0.0, 6.2, 6.2, 29.7, 1.6, 0.0, 0.0, 21.9, 50.0, 0.0, 1.6]}
+2025-02-15 21:14 - INFO - Data memory measure: {'total': 34258022400, 'available': 17695854592, 'percent': 48.3, 'used': 16562167808, 'free': 17695854592}
+2025-02-15 21:15 - INFO - Data cpu measure: {'usage_total': 12.3, 'usage_per_core': [6.2, 3.1, 7.6, 20.0, 53.8, 18.5, 1.5, 3.0, 15.4, 12.3, 3.1, 3.1]}
+2025-02-15 21:15 - INFO - Data memory measure: {'total': 34258022400, 'available': 17691320320, 'percent': 48.4, 'used': 16566702080, 'free': 17691320320}
+2025-02-15 21:15 - INFO - Data memory measure: {'total': 34258022400, 'available': 17696636928, 'percent': 48.3, 'used': 16561385472, 'free': 17696636928}
+2025-02-15 21:15 - INFO - Data cpu measure: {'usage_total': 13.8, 'usage_per_core': [12.3, 1.6, 10.8, 6.2, 35.9, 40.6, 1.6, 3.1, 32.8, 6.2, 9.4, 4.7]}
+2025-02-15 21:15 - INFO - Data cpu measure: {'usage_total': 12.3, 'usage_per_core': [6.1, 10.8, 0.0, 13.6, 20.0, 27.7, 1.5, 3.1, 4.6, 56.9, 3.1, 0.0]}
+2025-02-15 21:15 - INFO - Data memory measure: {'total': 34258022400, 'available': 17697329152, 'percent': 48.3, 'used': 16560693248, 'free': 17697329152}
+2025-02-15 21:15 - INFO - Programa finalizado de forma controlada.
