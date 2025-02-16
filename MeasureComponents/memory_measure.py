@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 import psutil
-from testZeroMQ.ClientZeroMQ import ResourceMonitor
+from ZeroMQManager.zero_mq_manager import ZeroMQManager
 from MeasureComponents.interface_measure_classes import iMeasure
 from constants import Topics
 from collections import namedtuple
@@ -11,7 +11,7 @@ logger = apply_logger_config()
 
 @dataclass
 class MemoryMeasure(iMeasure):
-    monitor: ResourceMonitor
+    monitor: ZeroMQManager
     memory_obj: namedtuple = field(default_factory=list)
     stop_event: threading.Event = field(default_factory=threading.Event)
 

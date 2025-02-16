@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd30e4c7-2b60-45fe-8654-f7b14fc3a732" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Resources monitor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logger/logger_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeasureComponents/cpu_measure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeasureComponents/interface_measure_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeasureComponents/memory_measure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPutils/putils_test_bench.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPutils/suscriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testZeroMQ/ClientZeroMQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeasureComponents/disk_usage_measure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQManager/zero_mq_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testPutils/suscriptor_single_query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeasureComponents/cpu_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasureComponents/cpu_measure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeasureComponents/memory_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasureComponents/memory_measure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourcesMonitor.log" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesMonitor.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPutils/putils_test_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPutils/putils_test_bench.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPutils/suscriptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPutils/suscriptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testZeroMQ/ClientZeroMQ.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +50,10 @@
     "Python.memory_measure.executor": "Run",
     "Python.putils_test_bench.executor": "Run",
     "Python.suscriptor.executor": "Run",
+    "Python.suscriptor_single_query.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,30 +68,7 @@
       <recent name="H:\Git_Overture\Resources monitor\measure_components" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="ClientZeroMQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Resources monitor" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testZeroMQ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testZeroMQ/ClientZeroMQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.suscriptor">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Resources monitor" />
       <option name="ENV_FILES" value="" />
@@ -109,29 +84,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="memory_measure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Resources monitor" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasureComponents" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasureComponents/memory_measure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,13 +138,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="suscriptor_single_query" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Resources monitor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPutils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPutils/suscriptor_single_query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zero_mq_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Resources monitor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testZeroMQ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:\Git_Overture\Resources monitor\testZeroMQ\zero_mq_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.memory_measure" />
-        <item itemvalue="Python.ClientZeroMQ" />
-        <item itemvalue="Python.putils_test_bench" />
         <item itemvalue="Python.suscriptor" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.suscriptor_single_query" />
+        <item itemvalue="Python.putils_test_bench" />
+        <item itemvalue="Python.zero_mq_manager" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +214,8 @@
       <workItem from="1739595781261" duration="45000" />
       <workItem from="1739595870896" duration="10531000" />
       <workItem from="1739630796582" duration="3943000" />
-      <workItem from="1739646888342" duration="3691000" />
+      <workItem from="1739646888342" duration="3829000" />
+      <workItem from="1739676303782" duration="4170000" />
     </task>
     <servers />
   </component>
@@ -225,10 +224,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Resources_monitor$memory_measure.coverage" NAME="memory_measure Coverage Results" MODIFIED="1739647487344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasureComponents" />
-    <SUITE FILE_PATH="coverage/Resources_monitor$putils_test_bench.coverage" NAME="putils_test_bench Coverage Results" MODIFIED="1739646980607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPutils" />
-    <SUITE FILE_PATH="coverage/Resources_monitor$ClientZeroMQ.coverage" NAME="ClientZeroMQ Coverage Results" MODIFIED="1739647445412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testZeroMQ" />
+    <SUITE FILE_PATH="coverage/Resources_monitor$ClientZeroMQ.coverage" NAME="ClientZeroMQ Coverage Results" MODIFIED="1739677935969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testZeroMQ" />
+    <SUITE FILE_PATH="coverage/Resources_monitor$putils_test_bench.coverage" NAME="putils_test_bench Coverage Results" MODIFIED="1739678593887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPutils" />
+    <SUITE FILE_PATH="coverage/Resources_monitor$suscriptor_single_query.coverage" NAME="suscriptor_single_query Coverage Results" MODIFIED="1739679435032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPutils" />
     <SUITE FILE_PATH="coverage/Resources_monitor$cpu_measure.coverage" NAME="cpu_measure Coverage Results" MODIFIED="1739633215658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasureComponents" />
-    <SUITE FILE_PATH="coverage/Resources_monitor$main.coverage" NAME="main Coverage Results" MODIFIED="1739650493892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Resources_monitor$suscriptor.coverage" NAME="suscriptor Coverage Results" MODIFIED="1739633222318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPutils" />
+    <SUITE FILE_PATH="coverage/Resources_monitor$main.coverage" NAME="main Coverage Results" MODIFIED="1739679485410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Resources_monitor$suscriptor.coverage" NAME="suscriptor Coverage Results" MODIFIED="1739679531068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPutils" />
   </component>
 </project>
