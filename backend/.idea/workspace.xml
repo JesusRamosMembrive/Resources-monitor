@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd30e4c7-2b60-45fe-8654-f7b14fc3a732" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MeasureComponents/disk_usage_measure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroMQManager/zero_mq_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPutils/suscriptor_single_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeasureComponents/cpu_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasureComponents/cpu_measure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeasureComponents/memory_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasureComponents/memory_measure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourcesMonitor.log" beforeDir="false" afterPath="$PROJECT_DIR$/ResourcesMonitor.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPutils/putils_test_bench.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPutils/putils_test_bench.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPutils/suscriptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPutils/suscriptor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testZeroMQ/ClientZeroMQ.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fd30e4c7-2b60-45fe-8654-f7b14fc3a732" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +40,7 @@
     "Python.suscriptor_single_query.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "refactor__zeromq__manager__to__accept__single__querys",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -215,7 +202,7 @@
       <workItem from="1739595870896" duration="10531000" />
       <workItem from="1739630796582" duration="3943000" />
       <workItem from="1739646888342" duration="3829000" />
-      <workItem from="1739676303782" duration="4170000" />
+      <workItem from="1739676303782" duration="4365000" />
     </task>
     <servers />
   </component>
