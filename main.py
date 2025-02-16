@@ -1,5 +1,5 @@
 import threading
-from testZeroMQ.ClientZeroMQ import ResourceMonitor
+from ZeroMQManager.zero_mq_manager import ZeroMQManager
 from MeasureComponents.cpu_measure import CPUMeasure
 from MeasureComponents.memory_measure import MemoryMeasure
 
@@ -7,7 +7,7 @@ from Logger.logger_config import apply_logger_config
 logger = apply_logger_config()
 
 if __name__ == "__main__":
-    monitor = ResourceMonitor(port=5555, poll_interval=0.1)
+    monitor = ZeroMQManager()
     monitor.start()
 
     cpu_measure = CPUMeasure(monitor)

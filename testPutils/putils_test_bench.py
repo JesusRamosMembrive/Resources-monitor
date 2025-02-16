@@ -14,7 +14,7 @@ import psutil
 # print(f"{psutil.cpu_stats()=}") # No parece interesante
 # print(f"{psutil.cpu_freq(percpu=True)=}")
 # print(f"{psutil.getloadavg()=}")
-print(f"{psutil.virtual_memory()=}")
+# print(f"{psutil.virtual_memory()=}")
 # print(f"{psutil.swap_memory()=}")
 # print(f"{psutil.disk_usage('/')=}")
 # print(f"{psutil.disk_partitions(all=True)=}")
@@ -28,7 +28,12 @@ print(f"{psutil.virtual_memory()=}")
 # print(f"{psutil.pid_exists(1)=}")
 # print(f"{psutil.process_iter()=}")
 # print(f"{psutil.virtual_memory()=}")
-
+# disk = psutil.disk_usage('/')
+# print(type(disk))
+# print(f"Total: {disk.total / (1024**3):.2f} GB")
+# print(f"Usado: {disk.used / (1024**3):.2f} GB")
+# print(f"Libre: {disk.free / (1024**3):.2f} GB")
+# print(f"Porcentaje de uso: {disk.percent}%")
 
 # while True:
 #     cpu_percent = psutil.cpu_percent(interval=1)

@@ -1,7 +1,7 @@
 import threading
 from dataclasses import dataclass, field
 import psutil
-from testZeroMQ.ClientZeroMQ import ResourceMonitor
+from ZeroMQManager.zero_mq_manager import ZeroMQManager
 from MeasureComponents.interface_measure_classes import iMeasure
 from constants import Topics
 from Logger.logger_config import apply_logger_config
@@ -9,7 +9,7 @@ logger = apply_logger_config()
 
 @dataclass
 class CPUMeasure(iMeasure):
-    monitor: ResourceMonitor
+    monitor: ZeroMQManager
     usage_total:float = 0.0
     usage_per_core: list[float] = field(default_factory=list)
     stop_event: threading.Event = field(default_factory=threading.Event)
